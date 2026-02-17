@@ -1,4 +1,4 @@
-# Intelligence in Minkowski Space: A Geometric Theory of Learning
+# Intelligence in Minkowski Space
 
 ## Core Principle
 
