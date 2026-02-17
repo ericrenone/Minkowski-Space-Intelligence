@@ -1,4 +1,4 @@
-# Quaternion Minkowski Intelligence: A Unified Geometric Theory
+# Quaternion Minkowski Intelligence
 
 **Intelligence emerges as quaternion flow along geodesics in Minkowski spacetime, where learning is a relativistic phenomenon constrained by causality and governed by the consolidation ratio as the fundamental invariant.**
 
